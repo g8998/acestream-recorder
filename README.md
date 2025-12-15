@@ -1,5 +1,9 @@
 # AceStream Recorder
 
+![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
+![License](https://img.shields.io/badge/License-GPLv3-green.svg)
+![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey.svg)
+
 A Python GUI application for recording AceStream channels with automatic conversion to MP4 format.
 
 <img src="./screenshot.png"/>
